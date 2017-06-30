@@ -31,7 +31,7 @@ Default config:
 
 ## Programmatic Usage
 
-```sh
+```js
 require('node-harmonize').bin('index.js', {
     "flags": [
         "harmony"
