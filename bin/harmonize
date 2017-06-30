@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+'use strict';
+
+var harmonize = require('../index');
+
+harmonize.bin(undefined, harmonize.config());

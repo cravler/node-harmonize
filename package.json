@@ -1,0 +1,33 @@
+{
+  "name": "node-harmonize",
+  "description": "Enables harmony features",
+  "author": {
+    "name": "Sergei Vizel",
+    "email": "sergei.vizel@gmail.com",
+    "url": "https://github.com/cravler"
+  },
+  "homepage": "https://github.com/cravler/node-harmonize",
+  "keywords": [
+    "node",
+    "harmony"
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "main": "index.js",
+  "bin": {
+    "node-harmonize": "bin/harmonize"
+  },
+  "dependencies": {
+    "harmonize": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cravler/node-harmonize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cravler/node-harmonize/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
